@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706494177297",
+    "project_id": "edge-detection-cfa93",
+    "storage_bucket": "edge-detection-cfa93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706494177297:android:9aacb597a58a3cfd3251b0",
+        "android_client_info": {
+          "package_name": "com.app.imagedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706494177297-qbbttibit886ml68ktvpjhkrdvjrtegg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaAVfi3e5HuuOM8WMokOgncxsL-Umiro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706494177297-qbbttibit886ml68ktvpjhkrdvjrtegg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
